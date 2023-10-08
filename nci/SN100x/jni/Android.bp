@@ -35,7 +35,6 @@ cc_library_shared {
         "extns/pn54x/src/mifare",
     ],
     shared_libs: [
-        "libandroidicu",
         "libnativehelper",
         "libcutils",
         "libutils",
